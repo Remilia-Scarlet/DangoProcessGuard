@@ -1,6 +1,6 @@
-﻿namespace WindowsService1
+﻿namespace DangoProcessGuardService
 {
-    partial class Service1
+    partial class DangoProcessGuardService
     {
         /// <summary> 
         /// 必需的设计器变量。
@@ -28,8 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
-            this.ServiceName = "Service1";
+            // 
+            // DangoProcessGuardService
+            // 
+            this.ServiceName = "DangoProcessGuardService";
+
         }
 
         #endregion
